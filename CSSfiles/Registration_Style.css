@@ -1,0 +1,110 @@
+
+
+label {
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    font-size: 15px;    
+  }
+  
+  input.right{
+    float:right;
+  }
+
+
+  div label{
+    text-align-last:right;
+  }
+ 
+ 
+  img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); 
+  }
+  
+  .center {
+    margin:auto;
+    width: 60%;
+    padding: 70px;
+    color:white;  
+  }
+  .center1 {
+    margin:auto;
+    width: 20%;
+    padding: 70px;
+    color:white;  
+  }
+  .center2{
+    margin:auto;
+    width: 100%;
+    color:white;  
+  }
+
+  .center3 {
+    margin:auto;
+    width: 40%;
+    padding: 70px;
+    color:white;  
+  }
+
+  .center4 {
+    margin:auto;
+    width: 30%;
+    padding: 70px;
+    color:white;  
+  }
+ 
+  #products {
+    margin:auto;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    color:white;
+  }
+  
+  #products td, #products th {
+    border: 1px solid rgb(179, 173, 173);
+    padding: 8px;
+  }
+  
+  
+  
+  #products tr:hover {background-color: #ddd;}
+  
+  #products th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:none;
+    color: white;
+  }
+
+  select.right{
+    float:right;
+  }
+  
+  #reg {
+    margin:auto;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color:white
+  }
+  
+  #reg td, #reg th {
+    padding: 8px;
+  }
+  
+  
+  #reg tr:hover {
+    background-color: #ddd;
+  }
+  
+  #reg th {
+    float: left;
+    background-color:none;
+    color: white;
+  }
+  
+
+ 
+  
+
+  
